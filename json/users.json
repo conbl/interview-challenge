@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "type_role": "Administrator",
+    "name": "Brent Terry",
+    "email": "whitemark@example.net",
+    "type_department": "Cleaning",
+    "group_id": 6
+  },
+  {
+    "id": 2,
+    "type_role": "Administrator",
+    "name": "Jennifer Collier",
+    "email": "herrerabrandon@example.org",
+    "type_department": "Maintenance",
+    "group_id": 1
+  },
+  {
+    "id": 3,
+    "type_role": "Supervisor",
+    "name": "Catherine Clayton DDS",
+    "email": "jeffreyjohnson@example.net",
+    "type_department": "Cleaning",
+    "group_id": 6
+  },
+  {
+    "id": 4,
+    "type_role": "Administrator",
+    "name": "Nathan Howard",
+    "email": "john81@example.com",
+    "type_department": "Inspection",
+    "group_id": 1
+  },
+  {
+    "id": 5,
+    "type_role": "Administrator",
+    "name": "John Lester",
+    "email": "tyler05@example.net",
+    "type_department": "Inspection",
+    "group_id": 3
+  },
+  {
+    "id": 6,
+    "type_role": "Worker",
+    "name": "Brandi Hall",
+    "email": "fwood@example.com",
+    "type_department": "Maintenance",
+    "group_id": 2
+  },
+  {
+    "id": 7,
+    "type_role": "Worker",
+    "name": "Karen Horton",
+    "email": "alikevin@example.org",
+    "type_department": "Cleaning",
+    "group_id": 3
+  },
+  {
+    "id": 8,
+    "type_role": "Worker",
+    "name": "Alexis Hogan",
+    "email": "thomas69@example.com",
+    "type_department": "Cleaning",
+    "group_id": 6
+  },
+  {
+    "id": 9,
+    "type_role": "Supervisor",
+    "name": "Charlene Gray",
+    "email": "xanderson@example.org",
+    "type_department": "Inspection",
+    "group_id": 1
+  },
+  {
+    "id": 10,
+    "type_role": "Administrator",
+    "name": "Kathleen Grant",
+    "email": "judyhuff@example.net",
+    "type_department": "Inspection",
+    "group_id": 6
+  },
+  {
+    "id": 11,
+    "type_role": "Supervisor",
+    "name": "Jason Frank",
+    "email": "mooretravis@example.org",
+    "type_department": "Maintenance",
+    "group_id": 5
+  },
+  {
+    "id": 12,
+    "type_role": "Worker",
+    "name": "Chelsea Simon DDS",
+    "email": "jesse03@example.com",
+    "type_department": "Inspection",
+    "group_id": 4
+  },
+  {
+    "id": 13,
+    "type_role": "Administrator",
+    "name": "Jose Holmes",
+    "email": "pwhite@example.net",
+    "type_department": "Inspection",
+    "group_id": 5
+  },
+  {
+    "id": 14,
+    "type_role": "Supervisor",
+    "name": "Jason Dixon",
+    "email": "khall@example.net",
+    "type_department": "Maintenance",
+    "group_id": 4
+  },
+  {
+    "id": 15,
+    "type_role": "Supervisor",
+    "name": "Rick Schmitt",
+    "email": "brandonrandall@example.com",
+    "type_department": "Maintenance",
+    "group_id": 4
+  },
+  {
+    "id": 16,
+    "type_role": "Supervisor",
+    "name": "Amanda Gonzalez",
+    "email": "tinachristensen@example.com",
+    "type_department": "Inspection",
+    "group_id": 4
+  },
+  {
+    "id": 17,
+    "type_role": "Administrator",
+    "name": "Joseph Ramos",
+    "email": "brownkara@example.com",
+    "type_department": "Inspection",
+    "group_id": 3
+  },
+  {
+    "id": 18,
+    "type_role": "Worker",
+    "name": "Madison Fitzpatrick",
+    "email": "millsjessica@example.org",
+    "type_department": "Maintenance",
+    "group_id": 2
+  },
+  {
+    "id": 19,
+    "type_role": "Worker",
+    "name": "Brandon Howell",
+    "email": "shelly88@example.net",
+    "type_department": "Inspection",
+    "group_id": 3
+  },
+  {
+    "id": 20,
+    "type_role": "Supervisor",
+    "name": "Matthew Wallace",
+    "email": "kfletcher@example.net",
+    "type_department": "Cleaning",
+    "group_id": 1
+  },
+  {
+    "id": 21,
+    "type_role": "Supervisor",
+    "name": "Travis Cook",
+    "email": "agarcia@example.org",
+    "type_department": "Inspection",
+    "group_id": 2
+  },
+  {
+    "id": 22,
+    "type_role": "Worker",
+    "name": "Barry Gentry",
+    "email": "nolantimothy@example.org",
+    "type_department": "Cleaning",
+    "group_id": 6
+  },
+  {
+    "id": 23,
+    "type_role": "Worker",
+    "name": "Rebecca Sanders",
+    "email": "nholt@example.com",
+    "type_department": "Inspection",
+    "group_id": 5
+  },
+  {
+    "id": 24,
+    "type_role": "Administrator",
+    "name": "Jasmine Stevenson",
+    "email": "parkjoseph@example.org",
+    "type_department": "Maintenance",
+    "group_id": 2
+  },
+  {
+    "id": 25,
+    "type_role": "Supervisor",
+    "name": "Sandra Medina",
+    "email": "stephaniekrause@example.com",
+    "type_department": "Inspection",
+    "group_id": 1
+  },
+  {
+    "id": 26,
+    "type_role": "Supervisor",
+    "name": "Patrick Thomas",
+    "email": "kelly09@example.net",
+    "type_department": "Inspection",
+    "group_id": 1
+  },
+  {
+    "id": 27,
+    "type_role": "Supervisor",
+    "name": "Teresa Snyder",
+    "email": "stephenchang@example.net",
+    "type_department": "Cleaning",
+    "group_id": 2
+  },
+  {
+    "id": 28,
+    "type_role": "Worker",
+    "name": "Rachel Klein",
+    "email": "vwoods@example.com",
+    "type_department": "Cleaning",
+    "group_id": 6
+  },
+  {
+    "id": 29,
+    "type_role": "Administrator",
+    "name": "Steve Wise",
+    "email": "rachelstewart@example.net",
+    "type_department": "Maintenance",
+    "group_id": 1
+  },
+  {
+    "id": 30,
+    "type_role": "Worker",
+    "name": "Steven Garcia",
+    "email": "yfry@example.com",
+    "type_department": "Maintenance",
+    "group_id": 1
+  },
+  {
+    "id": 31,
+    "type_role": "Supervisor",
+    "name": "Cathy Rosales",
+    "email": "bakerrebecca@example.com",
+    "type_department": "Maintenance",
+    "group_id": 4
+  },
+  {
+    "id": 32,
+    "type_role": "Administrator",
+    "name": "Charles Cobb",
+    "email": "kimberly97@example.net",
+    "type_department": "Maintenance",
+    "group_id": 1
+  },
+  {
+    "id": 33,
+    "type_role": "Administrator",
+    "name": "Douglas Trujillo",
+    "email": "jimmysnyder@example.com",
+    "type_department": "Cleaning",
+    "group_id": 6
+  },
+  {
+    "id": 34,
+    "type_role": "Worker",
+    "name": "Terri Snyder",
+    "email": "amiller@example.org",
+    "type_department": "Cleaning",
+    "group_id": 4
+  },
+  {
+    "id": 35,
+    "type_role": "Worker",
+    "name": "Gregory Shelton",
+    "email": "jamesjohnson@example.net",
+    "type_department": "Inspection",
+    "group_id": 3
+  },
+  {
+    "id": 36,
+    "type_role": "Administrator",
+    "name": "Thomas Schwartz",
+    "email": "dharris@example.net",
+    "type_department": "Maintenance",
+    "group_id": 3
+  },
+  {
+    "id": 37,
+    "type_role": "Supervisor",
+    "name": "Brian Brown",
+    "email": "ngeorge@example.org",
+    "type_department": "Maintenance",
+    "group_id": 5
+  },
+  {
+    "id": 38,
+    "type_role": "Supervisor",
+    "name": "Jane Frye",
+    "email": "elizabethbryant@example.org",
+    "type_department": "Cleaning",
+    "group_id": 1
+  },
+  {
+    "id": 39,
+    "type_role": "Supervisor",
+    "name": "Matthew Herman",
+    "email": "wjohnson@example.net",
+    "type_department": "Cleaning",
+    "group_id": 3
+  },
+  {
+    "id": 40,
+    "type_role": "Worker",
+    "name": "Mary Smith",
+    "email": "randolphsarah@example.com",
+    "type_department": "Maintenance",
+    "group_id": 2
+  }
+]

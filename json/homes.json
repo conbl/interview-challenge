@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "name": "Johnson House",
+    "group_id": 1,
+    "building_id": 3,
+    "address1": "963 Brown Hills Suite 665",
+    "city": "South Maureen",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 2,
+    "name": "Nelson Estate",
+    "group_id": 1,
+    "building_id": 3,
+    "address1": "794 John Ports",
+    "city": "Aliciaview",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Garrison Estate",
+    "group_id": 4,
+    "building_id": 2,
+    "address1": "452 Gabriel Well Apt. 939",
+    "city": "Lake Alexander",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Smith Villa",
+    "group_id": 5,
+    "building_id": 2,
+    "address1": "221 Love Route Suite 325",
+    "city": "Sonyamouth",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Cooper Grotto",
+    "group_id": 3,
+    "building_id": 1,
+    "address1": "19250 Klein Shoal Suite 526",
+    "city": "West Jillside",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 6,
+    "name": "Lowe Grotto",
+    "group_id": 5,
+    "building_id": 2,
+    "address1": "249 Martin Neck",
+    "city": "Robinsonton",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 7,
+    "name": "Gonzalez Manor",
+    "group_id": 3,
+    "building_id": 3,
+    "address1": "61932 Eric Trafficway",
+    "city": "East Gregory",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "Gallegos Grotto",
+    "group_id": 4,
+    "building_id": 1,
+    "address1": "971 Nicole Throughway",
+    "city": "Lake John",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 9,
+    "name": "Henderson Estate",
+    "group_id": 5,
+    "building_id": 3,
+    "address1": "63349 Anthony Shoals",
+    "city": "North Jessicaton",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 10,
+    "name": "Johnson Estate",
+    "group_id": 2,
+    "building_id": 3,
+    "address1": "42431 Richard Island",
+    "city": "Gardnerhaven",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 11,
+    "name": "Salazar Grotto",
+    "group_id": 4,
+    "building_id": 2,
+    "address1": "545 Brown Union Apt. 903",
+    "city": "Port Amy",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 12,
+    "name": "Rios Grotto",
+    "group_id": 2,
+    "building_id": 3,
+    "address1": "300 Edward Ramp Apt. 764",
+    "city": "Taraview",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 13,
+    "name": "Hurley Villa",
+    "group_id": 5,
+    "building_id": 3,
+    "address1": "52383 Lisa Throughway Suite 656",
+    "city": "Jamieport",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 14,
+    "name": "Miller Estate",
+    "group_id": 2,
+    "building_id": 2,
+    "address1": "802 Holly Crest Suite 133",
+    "city": "Caldwellbury",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 15,
+    "name": "Ballard Grotto",
+    "group_id": 4,
+    "building_id": 3,
+    "address1": "1318 James Field Suite 910",
+    "city": "Lake Jose",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 16,
+    "name": "Mcguire Manor",
+    "group_id": 4,
+    "building_id": 1,
+    "address1": "805 Lindsay Pine",
+    "city": "Thompsonstad",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 17,
+    "name": "Calderon House",
+    "group_id": 1,
+    "building_id": 2,
+    "address1": "6641 Sparks Valley",
+    "city": "Katieshire",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 18,
+    "name": "Montoya Grotto",
+    "group_id": 4,
+    "building_id": 3,
+    "address1": "0167 English Wall",
+    "city": "North Andrew",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 19,
+    "name": "Patel Grotto",
+    "group_id": 2,
+    "building_id": 3,
+    "address1": "38003 Hart Islands Suite 580",
+    "city": "Lake Mariahberg",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 20,
+    "name": "Marshall Manor",
+    "group_id": 4,
+    "building_id": 3,
+    "address1": "505 Martin Light Suite 655",
+    "city": "Myersville",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 21,
+    "name": "Harper House",
+    "group_id": 2,
+    "building_id": 1,
+    "address1": "342 Williams Overpass",
+    "city": "Port Jeremyland",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 22,
+    "name": "Gutierrez Estate",
+    "group_id": 2,
+    "building_id": 1,
+    "address1": "3180 Ho Inlet",
+    "city": "Patrickland",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 23,
+    "name": "Hawkins Grotto",
+    "group_id": 3,
+    "building_id": 3,
+    "address1": "71292 Todd Freeway",
+    "city": "Lake Keith",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 24,
+    "name": "Chapman Manor",
+    "group_id": 4,
+    "building_id": 3,
+    "address1": "971 Gregory Brook",
+    "city": "Port Carrie",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 25,
+    "name": "Frazier Estate",
+    "group_id": 2,
+    "building_id": 3,
+    "address1": "720 Shannon River Apt. 818",
+    "city": "Kathleenport",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 26,
+    "name": "Hall Grotto",
+    "group_id": 4,
+    "building_id": 3,
+    "address1": "1644 Valerie Glens Suite 598",
+    "city": "New Curtis",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 27,
+    "name": "Rios Manor",
+    "group_id": 5,
+    "building_id": 3,
+    "address1": "581 Molly Groves",
+    "city": "Erikside",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 28,
+    "name": "Schwartz Manor",
+    "group_id": 5,
+    "building_id": 3,
+    "address1": "884 Stephanie Mount",
+    "city": "Dianamouth",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 29,
+    "name": "Thomas Villa",
+    "group_id": 4,
+    "building_id": 1,
+    "address1": "8581 Romero Neck Apt. 704",
+    "city": "Brightbury",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 30,
+    "name": "Jones Estate",
+    "group_id": 5,
+    "building_id": 2,
+    "address1": "35973 Stuart Vista",
+    "city": "Port Ryanstad",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 31,
+    "name": "Powell House",
+    "group_id": 2,
+    "building_id": 1,
+    "address1": "83442 Raymond Light",
+    "city": "North Katherinetown",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 32,
+    "name": "Robinson Estate",
+    "group_id": 2,
+    "building_id": 1,
+    "address1": "76330 Phillip Shore Apt. 370",
+    "city": "Port Andrea",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 33,
+    "name": "Davis Manor",
+    "group_id": 2,
+    "building_id": 3,
+    "address1": "668 Evans Gateway Apt. 154",
+    "city": "Lake Ryan",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 34,
+    "name": "Luna Manor",
+    "group_id": 1,
+    "building_id": 2,
+    "address1": "7973 Fitzgerald Turnpike",
+    "city": "Matthewside",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 35,
+    "name": "Bradford Estate",
+    "group_id": 5,
+    "building_id": 1,
+    "address1": "531 Kayla Green Apt. 229",
+    "city": "South Suzanneland",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 36,
+    "name": "Morrison Manor",
+    "group_id": 3,
+    "building_id": 1,
+    "address1": "337 Parker Port Apt. 403",
+    "city": "Novakview",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 37,
+    "name": "Kelley Estate",
+    "group_id": 5,
+    "building_id": 1,
+    "address1": "8872 Olson Forks",
+    "city": "Tammyborough",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 38,
+    "name": "Johnson Manor",
+    "group_id": 2,
+    "building_id": 3,
+    "address1": "81611 Rodriguez Drives",
+    "city": "East Angela",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 39,
+    "name": "Carson Villa",
+    "group_id": 5,
+    "building_id": 2,
+    "address1": "5890 Justin Pike Apt. 446",
+    "city": "New Teresamouth",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 40,
+    "name": "Green Manor",
+    "group_id": 2,
+    "building_id": 1,
+    "address1": "984 Kent Causeway",
+    "city": "Millschester",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 41,
+    "name": "Finley House",
+    "group_id": 1,
+    "building_id": 3,
+    "address1": "72863 Katrina Ports Apt. 953",
+    "city": "South Frank",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 42,
+    "name": "Gray Grotto",
+    "group_id": 1,
+    "building_id": 2,
+    "address1": "0389 Stephen Ridges Apt. 358",
+    "city": "Brendafurt",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 43,
+    "name": "Bradley House",
+    "group_id": 1,
+    "building_id": 2,
+    "address1": "652 Bridges Port",
+    "city": "Laurafort",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 44,
+    "name": "Lloyd Estate",
+    "group_id": 3,
+    "building_id": 2,
+    "address1": "314 Conley Viaduct",
+    "city": "Hardyville",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 45,
+    "name": "Lucas House",
+    "group_id": 4,
+    "building_id": 1,
+    "address1": "1483 Hart Hill",
+    "city": "North James",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 46,
+    "name": "Garcia House",
+    "group_id": 4,
+    "building_id": 1,
+    "address1": "10890 Timothy Island",
+    "city": "Justinstad",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 47,
+    "name": "Austin Villa",
+    "group_id": 1,
+    "building_id": 1,
+    "address1": "856 Moore Rapid",
+    "city": "West Elizabeth",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 48,
+    "name": "Murphy Manor",
+    "group_id": 1,
+    "building_id": 2,
+    "address1": "30138 Whitney Cliff Apt. 341",
+    "city": "West Jeremy",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 49,
+    "name": "Williams House",
+    "group_id": 4,
+    "building_id": 2,
+    "address1": "100 Jonathon Pike Apt. 832",
+    "city": "South Jessicamouth",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 50,
+    "name": "Gonzalez Manor",
+    "group_id": 4,
+    "building_id": 3,
+    "address1": "31331 Welch Ridge",
+    "city": "North Monica",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 51,
+    "name": "Evans Manor",
+    "group_id": 3,
+    "building_id": 3,
+    "address1": "91589 Williams Dale Apt. 696",
+    "city": "Williamville",
+    "type_property_status": "Deleted"
+  },
+  {
+    "id": 52,
+    "name": "Wiggins Estate",
+    "group_id": 1,
+    "building_id": 2,
+    "address1": "99101 Yolanda Alley Apt. 488",
+    "city": "Davishaven",
+    "type_property_status": "Active"
+  },
+  {
+    "id": 53,
+    "name": "Daniel Villa",
+    "group_id": 3,
+    "building_id": 1,
+    "address1": "8965 Porter Hill",
+    "city": "Lake Alicia",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 54,
+    "name": "Trevino Villa",
+    "group_id": 1,
+    "building_id": 2,
+    "address1": "6253 Simmons Lock Suite 249",
+    "city": "Emilyborough",
+    "type_property_status": "Inactive"
+  },
+  {
+    "id": 55,
+    "name": "Griffith Estate",
+    "group_id": 4,
+    "building_id": 3,
+    "address1": "16834 Michael Center",
+    "city": "Wareville",
+    "type_property_status": "Inactive"
+  }
+]
